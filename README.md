@@ -4,4 +4,5 @@ This project contains the source code for the Barely Viable version of Truviu (B
 2) Video View page and the Folder System that will guide users to relevant content
 
 Language: Dart
+
 SDK: Flutter
