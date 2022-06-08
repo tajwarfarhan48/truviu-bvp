@@ -1,0 +1,5 @@
+1. Miniplayer in background
+2. Ethical Issues with Recommendation System
+3. Tab System in Content Screen
+4. Text-specific features (most social media platforms do not have convenient text features)
+4A) Code blocks with comments : In coding tutorials, passage analysis for literature exams, etc, users can create separate blocks of text in a box and make comments for specific lines, paras, etc.
